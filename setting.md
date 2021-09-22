@@ -11,26 +11,8 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.formatOnType": true,
-  // 主题
-  "workbench.colorTheme": "SynthWave '84",
-  // custome js and css 自定义样式
-  "vscode_custom_css.imports": [
-    "file:///D:/web/vscode-third-dev/synthwave/synthwave84.css"
-  ],
-  // 字体
-  // "editor.fontFamily": "Fira Code",
-  "editor.fontLigatures": true,
-  "editor.fontSize": 14,
-  "editor.fontWeight": "normal",
   // 文件图标
   "workbench.iconTheme": "vscode-icons",
-  // 终端
-  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
-  // 背景图
-  "backgroundCover.randomImageFolder": "d:\\素材模版\\背景图",
-  "backgroundCover.autoStatus": false,
-  "backgroundCover.imagePath": "d:\\素材模版\\背景图\\12987.jpg",
-  "backgroundCover.opacity": 1,
   // git
   "git.confirmSync": false,
   "gitlens.advanced.messages": {
@@ -63,14 +45,6 @@
   "eslint.alwaysShowStatus": true,
   "eslint.options": {
     "extensions": [".html", ".js", ".vue", ".jsx"]
-  },
-  // wepy
-  "files.associations": {
-    "*.cjson": "jsonc",
-    "*.wxss": "css",
-    "*.wxs": "javascript",
-    "*.vue": "vue",
-    "*.wpy": "vue"
   },
   "emmet.includeLanguages": {
     "wxml": "html"
